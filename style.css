@@ -16,7 +16,7 @@
         position: relative;
         top: 10px;
         left: 10px;
-        transform: scale(1.3); /* Увеличиваем масштаб */
+        transform: scale(1.3);
        }
 
       .all_images{
